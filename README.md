@@ -1,2 +1,5 @@
 # devops_presentations
-Repository for all devops talks presentation
+
+This repository contains various presentations of the talks @
+  - devops meetup pune
+
